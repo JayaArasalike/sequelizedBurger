@@ -1,0 +1,46 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+	background: #d1f442;
+	background-image: url("../img/wallpaper2.jpg");
+	color: #e6e6e6;
+}
+h1,h2{
+	text-align: center;
+}
+div {
+	display: inline-block;
+	padding: 15px;
+  	margin: 15px;
+}
+img {
+    display: block;
+    margin: auto;
+    border-radius: 25px;
+}
+ul { 
+	list-style: none; 
+}
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #009933;
+  border-radius: 5px;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-form {
+  padding: 5px;
+  margin: 5px;
+  background: lightgrey;
+  border-radius: 5px;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+p{
+	font-size: 10px;
+}
