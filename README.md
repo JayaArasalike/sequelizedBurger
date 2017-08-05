@@ -1,4 +1,4 @@
-Burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!).
+Burger logger with sequelize, Node, Express, Handlebars.
 Summary
 
     Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
