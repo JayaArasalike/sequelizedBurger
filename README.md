@@ -7,4 +7,4 @@ Summary
 
 	Each burger in the waiting area also has a Devour it! button. When the user clicks it, the burger will move to the right side of the page.
 
-	Your app ( https://salty-caverns-92614.herokuapp.com/ ) will store every burger in a database, whether devoured or not.
+	Your app ( https://gentle-savannah-47222.herokuapp.com/ ) will store every burger in a database, whether devoured or not.
